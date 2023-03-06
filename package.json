@@ -2,7 +2,6 @@
   "name": "responsive-web-page",
   "version": "1.0.0",
   "description": "Responsive-Web-Page-HTML-CSS-JS",
-  "main": "main.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir dist"
